@@ -1,2 +1,2 @@
 # arkansas-baseball
-First Website
+My very first website built from scratch.
